@@ -1,2 +1,3 @@
-# 100DaysOfSwiftUI
-/Users/deniz/Code/Swift/100DaysOfSwiftUI/README.md
+# Time Conversion
+
+## DAY 19 - Challenge day
