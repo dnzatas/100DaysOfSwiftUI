@@ -1,2 +1,3 @@
-# 100DaysOfSwiftUI
-/Users/deniz/Code/Swift/100DaysOfSwiftUI/README.md
+# GuessTheFlag
+
+## Day 20 - 22
